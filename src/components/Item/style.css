@@ -1,0 +1,18 @@
+.shoe-container {
+    border: 2px solid #131313;
+    width: 500px;
+    height: 200px;
+}
+.shoe-btns {
+    transform: translateY(30px);
+}
+button {
+    margin-left: 10px;
+    cursor: pointer;
+}
+.cart {
+    height: 24px;
+}
+.price {
+    margin-left: 220px;
+}
